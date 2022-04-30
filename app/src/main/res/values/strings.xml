@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="icn_camera_view_switch_camera_content_description">flip camera</string>
+</resources>
